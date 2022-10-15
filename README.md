@@ -41,7 +41,7 @@ After deciding on how what I wanted to make the changes do, the below images wil
 <img src="https://user-images.githubusercontent.com/85845285/195988640-7f4c065b-9ec5-4539-a65c-e40f23e259a6.png" >
 
 
-If a name is entered and matches a string that is already in the array, then a unique pin number will be displayed for the user.
+If a name is entered and matches a string that is already in the array, then a unique pin number will be displayed for the user.                             
 <img src="https://user-images.githubusercontent.com/85845285/195988363-78f3674a-5d05-4a29-a02e-f2df5a481deb.png" width=400>
 
 If a name does not exist then an error will return to let you know that a match was not found.                                              
