@@ -34,7 +34,7 @@ $ And keep this in mind
 
 ## Purpose for this program
 
-The point of recreationg this project was to include some real world results. This sort of program is an extremely simple version of verifying usernames for access, and providing the correct username a unique "pin number" that could allow access to a database or other program as seen fit. Below you will see how this project was created before I made any kind of changes to it.  
+The point of recreating this project was to include some real world results. This sort of program is an extremely simple version of verifying usernames for access, and providing the correct username a unique "pin number" that could allow access to a database or other program as seen fit. Below you will see how this project was created before I made any kind of changes to it.  
 <img src="https://user-images.githubusercontent.com/85845285/195989470-c2f836ca-185c-42bb-983a-30455379fc46.png" >
 
 After deciding on how what I wanted to make the changes do, the below images will show you the changes that I made and the outputs that come from those changes
